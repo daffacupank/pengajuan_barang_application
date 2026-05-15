@@ -219,7 +219,7 @@ class _BuatLaporanPageState extends State<BuatLaporanPage> {
                   CrossAxisAlignment.start,
                   children: [
                     Text(
-                      'Pengajuan Barang PENS',
+                      'Pengajuan Kerusakan Barang ',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 24,
